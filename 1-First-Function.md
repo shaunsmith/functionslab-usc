@@ -392,8 +392,6 @@ Returning to the Oracle Functions Console in the browser, click on `labapp-NNN`
 in the Applications List and you'll see the `javafn` function appears
 in the functions list.
 
-> ![Warning](images/warning.png) Fix the screeenshot!!
-
 ![labapp-NNN Functions](images/labapp-javafn.png)
 
 ### Invoking your Function with the CLI
